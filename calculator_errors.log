@@ -1,0 +1,6 @@
+[2026-11-15 20:03:03] DivisionByZeroException: You cannot divide by zero. | Input: "10 / 0" | IP: ::1
+[2026-11-15 20:03:34] InvalidInputException: The first number is not a valid number: "abc". | Input: "abc + 5" | IP: ::1
+[2026-11-15 20:07:20] DivisionByZeroException: You cannot divide by zero. | Input: "10 / 0" | IP: ::1
+[2026-11-15 20:07:54] InvalidInputException: The first number is not a valid number: "abc". | Input: "abc + 5" | IP: ::1
+[2026-11-15 20:11:27] DivisionByZeroException: You cannot divide by zero. | Input: "10 / 0" | IP: ::1
+[2026-11-15 20:11:57] InvalidInputException: The first number is not a valid number: "abc". | Input: "abc + 5" | IP: ::1
